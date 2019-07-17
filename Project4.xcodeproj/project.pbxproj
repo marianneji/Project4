@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		72B389C522DF3DA900844C6B /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72B389C422DF3DA900844C6B /* WebViewController.swift */; };
 		72EDB93D22DDDD1A007A1F57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72EDB93C22DDDD1A007A1F57 /* AppDelegate.swift */; };
 		72EDB93F22DDDD1A007A1F57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72EDB93E22DDDD1A007A1F57 /* ViewController.swift */; };
 		72EDB94222DDDD1A007A1F57 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 72EDB94022DDDD1A007A1F57 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		72B389C422DF3DA900844C6B /* WebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
 		72EDB93922DDDD1A007A1F57 /* Project4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project4.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		72EDB93C22DDDD1A007A1F57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		72EDB93E22DDDD1A007A1F57 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				72EDB93C22DDDD1A007A1F57 /* AppDelegate.swift */,
 				72EDB93E22DDDD1A007A1F57 /* ViewController.swift */,
+				72B389C422DF3DA900844C6B /* WebViewController.swift */,
 				72EDB94022DDDD1A007A1F57 /* Main.storyboard */,
 				72EDB94322DDDD1E007A1F57 /* Assets.xcassets */,
 				72EDB94522DDDD1E007A1F57 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				72EDB93F22DDDD1A007A1F57 /* ViewController.swift in Sources */,
+				72B389C522DF3DA900844C6B /* WebViewController.swift in Sources */,
 				72EDB93D22DDDD1A007A1F57 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
